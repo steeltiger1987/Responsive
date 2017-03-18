@@ -1,0 +1,27 @@
+Description with comments:
+https://www.dropbox.com/sh/533uxrpwlboiu8y/AADp4cW5TQuRyQCbQfKC2ekPa?dl=0
+
+Admin:
+https://www.dropbox.com/sh/rsuighin9ctnw8x/AABoBtCY04kgZ3KMTRZv1grXa?dl=0
+
+Dizainas:
+http://preview.themeforest.net/item/converio-responsive-multipurpose-wordpress-theme/full_screen_preview/9466052?_ga=1.236982656.167448079.1482253794
+
+
+Esamas admin panel:
+http://teleportuj.codiant.com/backend/auth/login
+Login: admin@teleportuj.com
+Pass: test123
+
+
+ssh
+Host: teleportoo.com Name: teleportoo2 Pass: HxSp14qDMT
+
+OSM
+https://osm.wno-edv-service.de/boundaries/
+
+For the virtual server „teleportoo.com“ a new database was established:
+Database: teleportmla
+Host: uvds375.active24.cz
+Login: teleportmla
+Password: Iqhy38DEWL

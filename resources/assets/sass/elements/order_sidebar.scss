@@ -1,0 +1,99 @@
+
+
+
+/*Order forms*/
+.order > article {
+  float: left;
+  margin-top: 50px;
+  max-width: none;
+  width: 700px;
+  height:100%;
+}
+.order > aside {
+  float: right;
+  max-width: 350px;
+  width: 350px;
+}
+
+.order article h2 {
+  font-weight: 300;
+}
+
+.order aside .social li {
+  margin-right: 2px;
+}
+.order aside .social li::before {
+  display: none;
+}
+
+.order aside .order-steps li {
+  font-size: 25px;
+}
+
+.order aside hr {
+  margin:20px 0px;
+}
+
+.order aside .order-steps .active {
+  font-weight: bold;
+}
+
+.order aside button {
+  width:100%;
+  margin-top:5px;
+}
+
+
+.order aside .price-label{
+  display:block;
+}
+
+.order aside .price {
+  font-size: 25px;
+  float:right;
+}
+
+.order aside .currency {
+  font-size: 25px;
+  float:right;
+}
+
+.order aside .vat-label{
+  font-size: 8px;
+  float:right;
+}
+
+.hidden {
+  display:none;
+}
+
+
+
+.gmap {
+  height: 400px;
+}
+aside .gmap {
+  height: 350px;
+  margin: 0 0 22px;
+}
+@media (max-width: 1150px) {
+  .order > article {
+    width: 65%;
+  }
+  .order aside {
+    width: 30%;
+  }
+}
+@media (max-width: 800px) {
+  .order > article {
+    float: none;
+    padding: 0 1%;
+    width: 98%;
+  }
+  .order > aside {
+    float: none;
+    max-width: none;
+    padding: 0 1%;
+    width: 98%;
+  }
+}

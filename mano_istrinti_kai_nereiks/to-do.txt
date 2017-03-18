@@ -1,0 +1,32 @@
+CREATE ORDER:
+    * Validation for modal item create window
+    * Parse address
+    * Add distance to model
+
+LOGIN PAGE:
+    + Make login for client and drivers separately
+
+BID PAGE:
+    + Add real cars
+
+EVERYWHERE
+    + Separate mover from clietn
+
+NEXT
+    + Show that order is active in orders all view
+    + Make jobs site
+    * Make items details visible
+
+
+FROM FEEDBACK:
+
+4. Add item
+   a)Simply show m3 when no input +
+   b) The calculator always show 1cm3 +
+   c)the user should be able to view the item +
+
+5. Missing details +
+
+6. When i click view profile of the mover i get a blank page (don't have this page)
+
+7. Customer your order different information is displayed ( please compare it to My JOBS image )

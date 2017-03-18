@@ -1,0 +1,7 @@
+AuthName "tomas.dev statistics"
+AuthType Basic
+AuthUserFile /home/tomas.dev/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>
